@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menuwrestle.png">
+<SubTexture name="menuwrestle idle0000" x="1707" y="0" width="1707" height="920" frameX="0" frameY="-40" frameWidth="1707" frameHeight="960" />
+<SubTexture name="menuwrestle idle0001" x="1707" y="0" width="1707" height="920" frameX="0" frameY="-40" frameWidth="1707" frameHeight="960" />
+<SubTexture name="menuwrestle idle0002" x="0" y="1837" width="1707" height="892" frameX="0" frameY="-68" frameWidth="1707" frameHeight="960" />
+<SubTexture name="menuwrestle idle0003" x="0" y="1837" width="1707" height="892" frameX="0" frameY="-68" frameWidth="1707" frameHeight="960" />
+<SubTexture name="menuwrestle idle0004" x="1707" y="923" width="1707" height="897" frameX="0" frameY="-63" frameWidth="1707" frameHeight="960" />
+<SubTexture name="menuwrestle idle0005" x="1707" y="923" width="1707" height="897" frameX="0" frameY="-63" frameWidth="1707" frameHeight="960" />
+<SubTexture name="menuwrestle idle0006" x="0" y="923" width="1707" height="914" frameX="0" frameY="-46" frameWidth="1707" frameHeight="960" />
+<SubTexture name="menuwrestle idle0007" x="0" y="923" width="1707" height="914" frameX="0" frameY="-46" frameWidth="1707" frameHeight="960" />
+<SubTexture name="menuwrestle idle0008" x="0" y="0" width="1707" height="923" frameX="0" frameY="-37" frameWidth="1707" frameHeight="960" />
+<SubTexture name="menuwrestle idle0009" x="0" y="0" width="1707" height="923" frameX="0" frameY="-37" frameWidth="1707" frameHeight="960" />
+</TextureAtlas>

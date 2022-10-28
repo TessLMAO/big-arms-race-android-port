@@ -1,0 +1,32 @@
+{
+	"storyName": "Beefy Babe Bout",
+	"difficulties": "Minji Side,Mia Side",
+	"hideFreeplay": false,
+	"weekBackground": "wrestle",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"menuwrestle",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Arms Race",
+			"miaminji",
+			[
+				255,
+				104,
+				237
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Minji Vs Mia",
+	"hiddenUntilUnlocked": false
+}
